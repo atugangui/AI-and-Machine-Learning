@@ -3,7 +3,7 @@ import numpy as np
 import itertools
 
 """
-Deep Learning
+Deep Learning: A deep-learning system for image recognition using TensorFlow.
 Team Oak: Amanda Tugangui, Anna Schall, Tatyana Benko, Lars Mayrand   
 """
 
