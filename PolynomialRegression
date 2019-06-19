@@ -1,3 +1,8 @@
+"""
+This is a program to explore under and overfitting in the context of polynomial regression.
+We generated synthetic data and fit several polynomials lines to it.
+
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import linear_model
